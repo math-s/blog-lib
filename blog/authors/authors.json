@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Matheus A",
+        "age": 20,
+        "city": "São Paulo",
+        "tags": [
+            "philosophy",
+            "programming"
+        ]
+    }
+]
