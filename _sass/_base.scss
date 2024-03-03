@@ -232,3 +232,11 @@ pre {
         }
     }
 }
+code {
+    font-size: 15px;
+    color: $brand-color;
+    background-color: #a6a6a6;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: $monospace-font-family;
+}
