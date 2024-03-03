@@ -1,3 +1,11 @@
+# Site settings
+email: matheus.andrade.dev@gmail.com
+baseurl: "/blog-lib" # the subpath of your site, e.g. /blog/
+url: "http://math-s.github.io" # the base hostname & protocol for your site
+twitter_username: silva_math_
+github_username:  math-s
+
+# Build settings
 lsi: false
 safe: true
 source: .
@@ -10,3 +18,4 @@ kramdown:
   syntax_highlighter: rouge
 plugins:
   - jekyll-coffeescript
+  - "jekyll-github-metadata"
