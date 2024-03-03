@@ -4,7 +4,7 @@ description:
   - A short description of your site's purpose
 email: matheus.andrade.dev@gmail.com
 baseurl: /blog-lib
-url: http://math-s.github.io/blog-lib/
+url: http://math-s.github.io/blog-lib
 twitter_username: silva_math_
 github_username: math-s
 lsi: false
